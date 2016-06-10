@@ -1,0 +1,5 @@
+C:\Users\yue\Documents\GitHub\changyueyue.github.io\githubTest\githubTest\bin\githubTest.dll
+C:\Users\yue\Documents\GitHub\changyueyue.github.io\githubTest\githubTest\bin\githubTest.pdb
+C:\Users\yue\Documents\GitHub\changyueyue.github.io\githubTest\githubTest\obj\Debug\githubTest.csprojResolveAssemblyReference.cache
+C:\Users\yue\Documents\GitHub\changyueyue.github.io\githubTest\githubTest\obj\Debug\githubTest.dll
+C:\Users\yue\Documents\GitHub\changyueyue.github.io\githubTest\githubTest\obj\Debug\githubTest.pdb
